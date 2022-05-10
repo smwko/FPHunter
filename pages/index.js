@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Empieza editando por <code>pages/index.js</code>
+          Bienvenido a FPHunter!
         </p>
       </main>
 
