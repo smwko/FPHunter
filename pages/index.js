@@ -19,7 +19,7 @@ export default function Home() {
         </p>
         <p align="left">  fermentum mi laoreet ac. Phasellus mattis nisl ut ipsum feugiat</p>
         <aside align="right">
-            <img src="/3567801.jpg" width="500" height=500f
+            <img src="/3567801.jpg" width="500" height= "500" />
         </aside>
     </main>
 
