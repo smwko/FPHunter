@@ -1,4 +1,5 @@
-![Image text](https://github.com/smwko/FPHunter/blob/main/Recursos/UEM%20LOGO.png) ![Image text](https://github.com/smwko/FPHunter/blob/main/Recursos/Logo%20FPHunter.jpg)
+![Image text](https://github.com/smwko/FPHunter/blob/main/Recursos/UEM%20LOGO.png) 
+![Image text](https://github.com/smwko/FPHunter/blob/main/Recursos/Logo%20FPHunter.jpg = width="324" height="324")
 
 TÍTULO: FPHunter
 
