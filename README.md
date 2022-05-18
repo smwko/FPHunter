@@ -1,4 +1,4 @@
-![Image text](https://github.com/smwko/FPHunter/blob/main/Recursos/UE_Madrid_Logo_Positive_RGB.png)
+![Image text](https://github.com/smwko/FPHunter/blob/main/Recursos/UEM%20LOGO.png))
 TÍTULO: FPHunter
 
 AUTOR/ES: Mauricio Villareal, Florencia Trigo y Junjie Wu
