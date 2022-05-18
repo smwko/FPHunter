@@ -1,4 +1,5 @@
-![Image text](https://github.com/smwko/FPHunter/blob/main/Recursos/UEM%20LOGO.png))
+![Image text](https://github.com/smwko/FPHunter/blob/main/Recursos/UEM%20LOGO.png) ![Image text](https://github.com/smwko/FPHunter/blob/main/Recursos/Logo%20FPHunter.jpg)
+
 TÍTULO: FPHunter
 
 AUTOR/ES: Mauricio Villareal, Florencia Trigo y Junjie Wu
